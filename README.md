@@ -1,2 +1,2 @@
-# EDUT-TECH
+# EDU-TECH
 Online learning Platform
